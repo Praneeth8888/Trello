@@ -3,7 +3,7 @@
 ```markdown
 # Trello Clone
 
-A full-stack Trello-style task management application built as a university capstone project. The goal was to apply agile development practices while working with a relational database, MVVM architecture, and secure user authentication.
+A full-stack Trello style task management application built as a university capstone project. The goal was to apply agile development practices while working with a relational database, MVVM architecture, and secure user authentication.
 
 ![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-Java-6DB33F?logo=springboot&logoColor=white)
@@ -42,7 +42,7 @@ trello-clone/
 
 - Node.js 16.15.0
 - npm 8.5.5
-- An IDE with JavaScript/Node support (VS Code or IntelliJ recommended)
+- An IDE with JavaScript/Node support (VS Code recommended)
 
 ### Setup
 
