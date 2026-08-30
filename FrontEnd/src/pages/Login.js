@@ -1,6 +1,6 @@
 import { useHistory } from "react-router-dom";
 import LoginForm from "../components/forms/LoginForm";
-import c from "../pages/Login.module.css";
+import c from "./Login.module.css";
 
 /* functionality for login page*/
 function Loginpage(){

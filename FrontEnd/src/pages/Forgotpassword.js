@@ -1,6 +1,6 @@
 import { useHistory } from "react-router-dom";
 import ForgotPassForm from "../components/forms/ForgotpassForm";
-import f from "../pages/Login.module.css";
+import f from "./Login.module.css";
 
 /* functionality for forgot password page */
 function ForgotPass(){
